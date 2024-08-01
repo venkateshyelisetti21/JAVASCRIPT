@@ -1,0 +1,15 @@
+let a=900;
+let b=9.2;
+let isapproved= false;
+let c='abc';
+let d="abc";
+let e=`abc`;
+let age;
+console.log(typeof(a));
+console.log(typeof(b));
+console.log(typeof(isapproved));
+console.log(typeof(true));
+console.log(typeof(c));
+console.log(typeof(d));
+console.log(typeof(e));
+console.log(age);
