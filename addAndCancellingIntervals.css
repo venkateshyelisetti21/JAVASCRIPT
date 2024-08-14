@@ -1,0 +1,16 @@
+.container-bg
+{
+    background-color: #f3f3f3;
+    padding: 40px;
+    text-align: center;
+    margin-top: 30px;
+}
+.container-op
+{
+    font-family: "Bree Serif";
+    font-size: 16px;
+}
+.number
+{
+    font-size: 60px;
+}
