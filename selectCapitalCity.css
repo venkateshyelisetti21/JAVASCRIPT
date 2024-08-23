@@ -1,0 +1,33 @@
+.bg-container {
+    background-color: #7f529a;
+}
+
+.heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.questions-form {
+    background-color: #ffffff;
+    border-radius: 20px;
+}
+
+.question {
+    color: #2d3a35;
+    font-family: "Bree Serif";
+    font-size: 24px;
+}
+
+.option-label {
+    color: #2d3a35;
+    font-family: "Roboto";
+}
+
+.result-msg {
+    font-family: "Bree Serif";
+    font-size: 18px;
+    /* background-color: #c2e112; */
+}
+

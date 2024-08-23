@@ -1,0 +1,23 @@
+.bg-container 
+{
+    background-color: #d5e5ff;
+}
+.subscribe-form-container 
+{
+    background-color: #ffffff;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+.input-label 
+{
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: bold;
+}
+.error-message 
+{
+    color: #dc3545;
+    font-family: "Roboto";
+    font-size: 14px;
+}
